@@ -1,0 +1,4 @@
+# {{ ansible_managed }}
+{% for pair in locale_env_vars %}
+    {{- pair }}
+{% endfor %}

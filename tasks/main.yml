@@ -1,0 +1,7 @@
+---
+- name: generate locale
+  locale_gen: name={{ item }} state=present
+  with_items: "{{ locale_names }}"
+
+- name: setup locale configuation
+  template: src=locale.j2 dest=/etc/default/locale

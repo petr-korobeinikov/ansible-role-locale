@@ -1,0 +1,7 @@
+---
+locale_names:
+  - en_US.UTF-8
+
+locale_env_vars:
+  - LC_ALL=en_US.UTF-8
+  - LANG=en_US.UTF-8
