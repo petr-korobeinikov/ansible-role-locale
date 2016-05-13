@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/pkorobeinikov/ansible-role-locale.svg?branch=master)](https://travis-ci.org/pkorobeinikov/ansible-role-locale)
+
 ansible-role-locale
 ===================
 
