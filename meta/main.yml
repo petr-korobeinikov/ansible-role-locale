@@ -1,6 +1,6 @@
 galaxy_info:
   author: Petr Korobeinikov
-  description: Generate locales
+  description: Locale generation and configuration.
   issue_tracker_url: https://github.com/pkorobeinikov/ansible-role-locale
   github_branch: master
   license: "license (BSD, MIT)"
