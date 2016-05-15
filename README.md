@@ -28,7 +28,7 @@ Example Playbook
     - hosts: localhost
       become: true
       roles:
-        - role: ansible-role-locale
+        - role: pkorobeinikov.locale
           locale_names:
             - en_US.UTF-8
             - ru_RU.UTF-8
